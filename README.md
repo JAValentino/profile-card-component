@@ -1,5 +1,5 @@
 Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
 
-Codepen: 
+Codepen: https://codepen.io/javalentino/pen/QWaVmov
 
-Link: 
+Link: https://javalentino.github.io/profile-card-component/
